@@ -1,2 +1,2 @@
 # html5mod2sol
-Coursera web development course by Yaakov mod2 homework
+Web Development course by Yaakov Chaikin. Homework assignment 2. 
