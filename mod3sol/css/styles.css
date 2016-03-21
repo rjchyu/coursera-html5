@@ -1,0 +1,20 @@
+p.rj-item-info {
+    min-height: 1000px;
+}
+
+.divider {
+    height: 1px;
+    width:100%;
+    display: block; /* for use on default inline elements like span */
+    margin: 9px 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+.rj-block {
+    margin-bottom: 20px;
+}
+
+.rj-collapse {
+    background-color: #eeeeee;
+}
